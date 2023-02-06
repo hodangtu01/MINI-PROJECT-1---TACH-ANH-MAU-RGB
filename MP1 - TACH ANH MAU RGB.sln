@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP1 - TACH ANH MAU RGB", "MP1 - TACH ANH MAU RGB\MP1 - TACH ANH MAU RGB.csproj", "{DB9B7DAE-8B49-43C2-881D-97FE1F085444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9B7DAE-8B49-43C2-881D-97FE1F085444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9B7DAE-8B49-43C2-881D-97FE1F085444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9B7DAE-8B49-43C2-881D-97FE1F085444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9B7DAE-8B49-43C2-881D-97FE1F085444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F32C3039-A03A-40B7-BFB8-6DA177E01BC6}
+	EndGlobalSection
+EndGlobal
